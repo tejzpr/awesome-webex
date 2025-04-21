@@ -67,6 +67,7 @@ DISCLAIMER: Cisco does not make any commitments about the resources listed in th
     * [ex_webexteams](https://github.com/zpeters/ex_webexteams) - Elixir package (by zpeters).
 * Go
     * [go-cisco-webex-teams](https://github.com/jbogarin/go-cisco-webex-teams) - A Go client library (by jbogarin).
+    * [webex-go-sdk](https://github.com/tejzpr/webex-go-sdk) - A Go REST API SDK for Webex (by tejzpr)
 * Haskell
     * [webex-teams-api](https://github.com/nshimaza/webex-teams-api) - A Haskell binding (by nshimaza).
 * Java
